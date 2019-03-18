@@ -55,3 +55,14 @@ http://keycode.info/
 - [Colors Tutorial - w3schools](https://www.w3schools.com/colors/default.asp)
 - [Paletton](http://paletton.com/)
 - [thi.ng/color, Karsten Schmidt](https://github.com/thi-ng/color)
+
+### Example Sketches - Juan Olaya
+For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessing.org/user/65585/)
+
+<p align="center">
+  <a href="https://www.openprocessing.org/user/65585/" target="_blank">
+    <img src="Images/openProcessingProfile.png" width=300 height=275>
+  </a>
+</p>
+
+***
