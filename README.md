@@ -10,6 +10,10 @@ Editor p5
 
 3. Eventos
 
+4. Contadores Limite
+
+4. Contadores rebote
+
 4. For loop
 
 4.1. Nested for loop
