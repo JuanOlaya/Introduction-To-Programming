@@ -1,6 +1,10 @@
 # Introduction-To-Programming
 
-
+<p align="center">
+  <a>
+    <img src="Images/ProcessingDocumentary23min50seg.png" width=350 height=190>
+  </a>
+</p>
 
 1. Crear cuentas 
 OpenProcessing 
