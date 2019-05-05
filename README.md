@@ -40,6 +40,11 @@ http://keycode.info/
 - [Poetic Computation](http://poeticcomputation.info/)
 
 ### Processing Links:
+
+
+### Processing Links:
+- [Teaching Tim Roden Broeker](https://teaching.timrodenbroeker.de/)
+- [Processing Workshops](https://code.artsnum.be/)
 - [Download Processing](https://processing.org/download/)
 - [Processing Reference](https://processing.org/reference/)
 - [The Coding Train (Daniel Shiffman)](https://www.youtube.com/user/shiffman)
