@@ -1,4 +1,4 @@
-# Introduction-To-Programming (WORK IN PROGRESS)
+# Introduction To Programming using Creative Coding (WORK IN PROGRESS)
 
 <p align="center">
   <a>
@@ -72,6 +72,9 @@ http://keycode.info/
 
 ### Example Sketches - Juan Olaya
 For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessing.org/user/65585/)
+
+### Misc
+[Juegos de mesa, kits para imprimir, libros y recursos gratuitos](https://www.xataka.com/literatura-comics-y-juegos/ensenar-programacion-nino-pc-robots-juegos-mesa-kits-para-imprimir-libros-recursos-gratuitos)
 
 <p align="center">
   <a href="https://www.openprocessing.org/user/65585/" target="_blank">
