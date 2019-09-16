@@ -19,9 +19,12 @@ https://www.openprocessing.org/sketch/625197
 
 4. Contadores rebote
 
-4. For loop
+5. For loop
 
-4.1. Nested for loop
+5.1. Nested for loop
+
+6. Audio Visualizer Tips!
+https://www.openprocessing.org/sketch/748618
 
 
 LINKS
