@@ -1,4 +1,4 @@
-# Introduction To Programming using Creative Coding (WORK IN PROGRESS)
+# Introduction to Programming using Creative Coding (WORK IN PROGRESS)
 
 <p align="center">
   <a>
