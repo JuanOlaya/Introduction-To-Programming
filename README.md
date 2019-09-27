@@ -1,11 +1,11 @@
-# Introduction to Programming with Creative Coding (WORK IN PROGRESS)
+# Introduction to Programming with Creative Coding 
 
 <p align="center">
   <a>
     <img src="Images/ProcessingDocumentary23min50seg.png" width=350 height=190>
   </a>
 </p>
-
+(WORK IN PROGRESS)
 1. Crear cuentas 
 OpenProcessing https://www.openprocessing.org/user/65585/
 Editor p5 https://editor.p5js.org/
