@@ -47,8 +47,6 @@ http://keycode.info/
 ### p5.js Links:
 - [Download p5.js](https://github.com/processing/p5.js/releases/)
 - [p5Live Tutorial](https://www.youtube.com/watch?v=bF8ybSVDUKM&feature=youtu.be&fbclid=IwAR1f4OcEPTfl-Jp2omsYOlIV8t-SnUkE2sjwmynyQ1WLQwhiogPQxYkoIAk)
-- [Why study p5.js?](https://twitter.com/golan/status/1167094436695818240)
-- [Web Design Curriculum](https://learn.freecodecamp.org/)
 
 ### Processing Links:
 - [Teaching Tim Roden Broeker](https://teaching.timrodenbroeker.de/)
@@ -81,10 +79,12 @@ http://keycode.info/
 ### Example Sketches - Juan Olaya
 For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessing.org/user/65585/)
 
-### Introduction to Creative Coding
+### Introduction to Creative Coding & Curriculum
+- [Why study p5.js?](https://twitter.com/golan/status/1167094436695818240)
 - [p5.js demos](https://p5-demos.glitch.me)
 - [Designing Programs](https://designingprograms.bitbucket.io/index.html)
 - [Programming Design Systems](https://programmingdesignsystems.com/color/color-schemes/index.html)
+- [Web Design Curriculum](https://learn.freecodecamp.org/)
 
 ### Misc
 [Juegos de mesa, kits para imprimir, libros y recursos gratuitos](https://www.xataka.com/literatura-comics-y-juegos/ensenar-programacion-nino-pc-robots-juegos-mesa-kits-para-imprimir-libros-recursos-gratuitos)
