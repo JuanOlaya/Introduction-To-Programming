@@ -81,7 +81,8 @@ http://keycode.info/
 For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessing.org/user/65585/)
 
 ### Introduction to Creative Coding
-https://p5-demos.glitch.me
+- [p5.js demos] https://p5-demos.glitch.me
+- [Designing Programs] https://designingprograms.bitbucket.io/index.html
 
 ### Misc
 [Juegos de mesa, kits para imprimir, libros y recursos gratuitos](https://www.xataka.com/literatura-comics-y-juegos/ensenar-programacion-nino-pc-robots-juegos-mesa-kits-para-imprimir-libros-recursos-gratuitos)
