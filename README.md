@@ -6,6 +6,7 @@
   </a>
 </p>
 (WORK IN PROGRESS)
+
 1. Crear cuentas 
 OpenProcessing https://www.openprocessing.org/user/65585/
 Editor p5 https://editor.p5js.org/
