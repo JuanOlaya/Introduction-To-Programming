@@ -95,4 +95,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
   </a>
 </p>
 
+### Sound visualization
+- [Explore data visualisation with p5.js](https://www.creativebloq.com/how-to/data-visualisation-with-p5js)
+
 ***
