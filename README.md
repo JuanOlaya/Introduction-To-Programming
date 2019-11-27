@@ -47,6 +47,7 @@ http://keycode.info/
 ### p5.js Links:
 - [Download p5.js](https://github.com/processing/p5.js/releases/)
 - [p5Live Tutorial](https://www.youtube.com/watch?v=bF8ybSVDUKM&feature=youtu.be&fbclid=IwAR1f4OcEPTfl-Jp2omsYOlIV8t-SnUkE2sjwmynyQ1WLQwhiogPQxYkoIAk)
+- [p5.js cheat sheet](https://bmoren.github.io/p5js-cheat-sheet/)
 
 ### Processing Links:
 - [Teaching Tim Roden Broeker](https://teaching.timrodenbroeker.de/)
