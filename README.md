@@ -86,6 +86,9 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Designing Programs](https://designingprograms.bitbucket.io/index.html)
 - [Programming Design Systems](https://programmingdesignsystems.com/color/color-schemes/index.html)
 - [Web Design Curriculum](https://learn.freecodecamp.org/)
+- [Happy Coding](https://happycoding.io/)
+- [JavaScript for Cats](http://jsforcats.com/)
+- [¡p5.js 1.0 está aquí!](https://medium.com/processing-foundation/p5-js-1-0-est%C3%A1-aqu%C3%AD-42344aa2b4fd)
 
 ### Misc
 [Juegos de mesa, kits para imprimir, libros y recursos gratuitos](https://www.xataka.com/literatura-comics-y-juegos/ensenar-programacion-nino-pc-robots-juegos-mesa-kits-para-imprimir-libros-recursos-gratuitos)
