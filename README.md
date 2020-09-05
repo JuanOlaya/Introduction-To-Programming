@@ -92,10 +92,10 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [¡p5.js 1.0 está aquí!](https://medium.com/processing-foundation/p5-js-1-0-est%C3%A1-aqu%C3%AD-42344aa2b4fd)
 
 ### Tutorial
-- [JavaScript project tutorial for beginners [HTML Canvas Particles](https://www.youtube.com/watch?v=nrJh8-Ixnu8)
+- [JavaScript project tutorial for beginners HTML Canvas Particles](https://www.youtube.com/watch?v=nrJh8-Ixnu8)
 
 ### Misc
-[Juegos de mesa, kits para imprimir, libros y recursos gratuitos](https://www.xataka.com/literatura-comics-y-juegos/ensenar-programacion-nino-pc-robots-juegos-mesa-kits-para-imprimir-libros-recursos-gratuitos)
+- [Juegos de mesa, kits para imprimir, libros y recursos gratuitos](https://www.xataka.com/literatura-comics-y-juegos/ensenar-programacion-nino-pc-robots-juegos-mesa-kits-para-imprimir-libros-recursos-gratuitos)
 
 <p align="center">
   <a href="https://www.openprocessing.org/user/65585/" target="_blank">
