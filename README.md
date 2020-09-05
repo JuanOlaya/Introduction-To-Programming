@@ -94,6 +94,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [JavaScript project tutorial for beginners HTML Canvas Particles](https://www.youtube.com/watch?v=nrJh8-Ixnu8)
 - [Web Design Curriculum - Responsive Web](https://www.freecodecamp.org/learn/)
 - [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?time_continue=1045&v=pQN-pnXPaVg&feature=emb_logo)
+- [Top 10 Free Courses to learn HTML 5, CSS 3, and Web Development](https://medium.com/javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97)
 - [HTML5 Simple Game Programming Preparation](https://www.udemy.com/course/free-prep-for-html5-game-development/)
 
 ### Misc
