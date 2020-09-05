@@ -86,7 +86,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [p5.js demos](https://p5-demos.glitch.me)
 - [Designing Programs](https://designingprograms.bitbucket.io/index.html)
 - [Programming Design Systems](https://programmingdesignsystems.com/color/color-schemes/index.html)
-- [Web Design Curriculum](https://learn.freecodecamp.org/)
+- [Web Design Curriculum](https://www.freecodecamp.org/learn/)
 - [Happy Coding](https://happycoding.io/)
 - [JavaScript for Cats](http://jsforcats.com/)
 - [¡p5.js 1.0 está aquí!](https://medium.com/processing-foundation/p5-js-1-0-est%C3%A1-aqu%C3%AD-42344aa2b4fd)
