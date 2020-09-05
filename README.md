@@ -86,13 +86,14 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [p5.js demos](https://p5-demos.glitch.me)
 - [Designing Programs](https://designingprograms.bitbucket.io/index.html)
 - [Programming Design Systems](https://programmingdesignsystems.com/color/color-schemes/index.html)
-- [Web Design Curriculum](https://www.freecodecamp.org/learn/)
 - [Happy Coding](https://happycoding.io/)
 - [JavaScript for Cats](http://jsforcats.com/)
 - [¡p5.js 1.0 está aquí!](https://medium.com/processing-foundation/p5-js-1-0-est%C3%A1-aqu%C3%AD-42344aa2b4fd)
 
 ### Html/CSS/Javascript Tutorials
 - [JavaScript project tutorial for beginners HTML Canvas Particles](https://www.youtube.com/watch?v=nrJh8-Ixnu8)
+- [Web Design Curriculum - Responsive Web](https://www.freecodecamp.org/learn/)
+- [HTML Full Course - Build a Website Tutorial](https://www.youtube.com/watch?time_continue=1045&v=pQN-pnXPaVg&feature=emb_logo)
 - [HTML5 Simple Game Programming Preparation](https://www.udemy.com/course/free-prep-for-html5-game-development/)
 
 ### Misc
