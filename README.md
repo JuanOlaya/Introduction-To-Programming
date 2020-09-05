@@ -93,6 +93,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 
 ### Html/CSS/Javascript Tutorials
 - [JavaScript project tutorial for beginners HTML Canvas Particles](https://www.youtube.com/watch?v=nrJh8-Ixnu8)
+- [HTML5 Simple Game Programming Preparation](https://www.udemy.com/course/free-prep-for-html5-game-development/)
 
 ### Misc
 - [Juegos de mesa, kits para imprimir, libros y recursos gratuitos](https://www.xataka.com/literatura-comics-y-juegos/ensenar-programacion-nino-pc-robots-juegos-mesa-kits-para-imprimir-libros-recursos-gratuitos)
