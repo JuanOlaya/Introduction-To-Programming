@@ -91,7 +91,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [JavaScript for Cats](http://jsforcats.com/)
 - [¡p5.js 1.0 está aquí!](https://medium.com/processing-foundation/p5-js-1-0-est%C3%A1-aqu%C3%AD-42344aa2b4fd)
 
-### Tutorial
+### Html/CSS/Javascript Tutorials
 - [JavaScript project tutorial for beginners HTML Canvas Particles](https://www.youtube.com/watch?v=nrJh8-Ixnu8)
 
 ### Misc
