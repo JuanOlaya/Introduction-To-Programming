@@ -112,3 +112,5 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Workshop on music visualization with p5.js from Eyeo '15](https://github.com/therewasaguy/p5-music-viz)
 
 ***
+### Inspiration 
+- [Code B3](https://codeb3.netlify.app/generalites/inspirations.html)
