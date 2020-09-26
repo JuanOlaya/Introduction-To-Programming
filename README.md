@@ -97,6 +97,8 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [HTML and CSS Tutorial - Create a Website for Beginners](https://www.youtube.com/watch?v=kMT54MPz9oE)
 - [Top 10 Free Courses to learn HTML 5, CSS 3, and Web Development](https://medium.com/javarevisited/top-10-free-courses-to-learn-html-5-css-3-and-web-development-872d62d97a97)
 - [HTML5 Simple Game Programming Preparation](https://www.udemy.com/course/free-prep-for-html5-game-development/)
+- [HTML5 Game from scratch](https://www.skillshare.com/classes/HTML5-Game-from-scratch-step-by-step-learning-JavaScript/1873401754?via=search-layout-grid)
+- [The Full JavaScript & ES6 Tutorial](https://www.udemy.com/course/es6-in-depth/)
 
 ### Misc
 - [Juegos de mesa, kits para imprimir, libros y recursos gratuitos](https://www.xataka.com/literatura-comics-y-juegos/ensenar-programacion-nino-pc-robots-juegos-mesa-kits-para-imprimir-libros-recursos-gratuitos)
