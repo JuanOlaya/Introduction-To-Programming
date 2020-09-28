@@ -101,6 +101,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [The Full JavaScript & ES6 Tutorial](https://www.udemy.com/course/es6-in-depth/)
 - [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
+- [Mozilla Manifiesto]https://www.mozilla.org/en-GB/about/manifesto/
 
 ### Misc
 - [Juegos de mesa, kits para imprimir, libros y recursos gratuitos](https://www.xataka.com/literatura-comics-y-juegos/ensenar-programacion-nino-pc-robots-juegos-mesa-kits-para-imprimir-libros-recursos-gratuitos)
