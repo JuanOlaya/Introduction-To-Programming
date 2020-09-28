@@ -99,6 +99,8 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [HTML5 Simple Game Programming Preparation](https://www.udemy.com/course/free-prep-for-html5-game-development/)
 - [HTML5 Game from scratch](https://www.skillshare.com/classes/HTML5-Game-from-scratch-step-by-step-learning-JavaScript/1873401754?via=search-layout-grid)
 - [The Full JavaScript & ES6 Tutorial](https://www.udemy.com/course/es6-in-depth/)
+- [HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
 ### Misc
 - [Juegos de mesa, kits para imprimir, libros y recursos gratuitos](https://www.xataka.com/literatura-comics-y-juegos/ensenar-programacion-nino-pc-robots-juegos-mesa-kits-para-imprimir-libros-recursos-gratuitos)
