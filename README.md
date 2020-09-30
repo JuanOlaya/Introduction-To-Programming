@@ -69,6 +69,7 @@ http://keycode.info/
 - [The History of Processing by Casey Reas and Ben Fry](https://medium.com/@ProcessingOrg/a-modern-prometheus-59aed94abe85)
 - [Tinkercad Circuits](https://www.tinkercad.com/circuits)
 - [Generative Gestaltung](http://www.generative-gestaltung.de/2/)
+- [p5js Showcase](https://showcase.p5js.org/#/)
 
 ### Color Palettes:
 - [Adobe Color](https://color.adobe.com/)
