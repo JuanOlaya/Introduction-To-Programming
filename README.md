@@ -104,6 +104,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 - [Structuring the web with HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 - [Mozilla Manifesto](https://www.mozilla.org/en-GB/about/manifesto/)
 - [JavaScript Visualized](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
+- [Javascript - Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 
 ### Misc
 - [Juegos de mesa, kits para imprimir, libros y recursos gratuitos](https://www.xataka.com/literatura-comics-y-juegos/ensenar-programacion-nino-pc-robots-juegos-mesa-kits-para-imprimir-libros-recursos-gratuitos)
