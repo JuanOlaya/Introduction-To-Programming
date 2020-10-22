@@ -128,3 +128,7 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 
 ### Other projects
 - [canvas-sketch (using Javascript)](https://github.com/mattdesl/canvas-sketch)
+
+### Other Ideas
+- [1](https://twitter.com/willanderson_/status/1309486534580731904)
+- [2](https://twitter.com/willanderson_/status/1313176827893026818)
