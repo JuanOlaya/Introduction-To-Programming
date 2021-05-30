@@ -132,3 +132,6 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 ### Other Ideas
 - [1](https://twitter.com/willanderson_/status/1309486534580731904)
 - [2](https://twitter.com/willanderson_/status/1313176827893026818)
+
+### Webcam / ml5
+- [Machine Learning for Art](https://ml4a.net/ml5/)
