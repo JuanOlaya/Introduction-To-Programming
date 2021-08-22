@@ -138,3 +138,6 @@ For more examples, visit [OpenProcessing - Juan Olaya](https://www.openprocessin
 
 ### Webcam / ml5
 - [Machine Learning for Art](https://ml4a.net/ml5/)
+
+### Books
+- [Code as Creative Medium](https://mitpress.mit.edu/books/code-creative-medium)
